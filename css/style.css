@@ -1264,7 +1264,7 @@ input[type="text"] {
   color: #CA82F8; }
 
 #footer {
-  padding: 8em 0;
+  padding: 8em 0 3em;
   display: block;
   width: 100%; }
   #footer h2 {
